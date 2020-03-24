@@ -1,5 +1,5 @@
 //-----------------Config-----------------
-var title = "Server name";
+var title = "Department Of Justice Express";
 var link = "Zua is gay";
 //---------------End Config---------------
 
